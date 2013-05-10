@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HumanitarianResponse Job Title feature.
+ */
+
+include_once('hr_job_title.features.inc');
