@@ -90,5 +90,10 @@ function hr_job_title_field_default_field_instances() {
     ),
   );
 
+  // Translatables
+  // Included for use with string extractors like potx.
+  t('Description');
+  t('Name');
+
   return $field_instances;
 }
